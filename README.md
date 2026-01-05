@@ -1,16 +1,10 @@
-# popular_movies
+# 🎬 Popular Movies
 
-A new Flutter project.
+A modern Flutter app for discovering movies using The Movie Database (TMDB) API. Built with Clean Architecture and BLoC pattern.
 
-## Getting Started
+## 📸 Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|                                                                                                          |                                                                                                          |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ![](https://raw.githubusercontent.com/G1Joshi/Assets/refs/heads/main/ScreenShots/popular_movies/SS1.png) | ![](https://raw.githubusercontent.com/G1Joshi/Assets/refs/heads/main/ScreenShots/popular_movies/SS2.png) |
+| ![](https://raw.githubusercontent.com/G1Joshi/Assets/refs/heads/main/ScreenShots/popular_movies/SS3.png) | ![](https://raw.githubusercontent.com/G1Joshi/Assets/refs/heads/main/ScreenShots/popular_movies/SS4.png) |
